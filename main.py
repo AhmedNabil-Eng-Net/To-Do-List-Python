@@ -15,7 +15,7 @@ def show_tasks(tasks):
     for i, task in enumerate(tasks, start=1):
         print(f"{i}- {task}")
     
-#------------------------Main Function-----------------------#
+#------------------------# Main #-----------------------#
 
 print(" Welcome to the To-Do list App ".center(52,"-"))
 tasks=[]
